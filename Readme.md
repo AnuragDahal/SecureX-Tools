@@ -91,5 +91,5 @@ To run any of the SecureX Tools, navigate to the tool's directory and follow the
 
 1. [Anurag Dahal](https://github.com/AnuragDahal)
 2. [Nabin Khair](https://github.com/nabinkhair42)
-3. [Nitesh Pokhrel]
-4. [Basanta Khatiwada]  
+3. [Nitesh Pokhrel](https://github.com/nitesh171)
+4. [Basanta Khatiwada](https://github.com/basanta-devs)
