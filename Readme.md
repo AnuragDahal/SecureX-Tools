@@ -12,7 +12,7 @@ SecureX Tools is a collection of utilities designed to enhance digital security 
     - [Encryptor](#encryptor)
     - [Base64 Generator](#base64-generator)
     - [EXIF Data Extractor](#exif-data-extractor)
-  - [TO Run](#to-run)
+  - [To Run](#to-run)
     - [URL Shortener](#url-shortener)
   - [Getting Started](#getting-started)
   - [Installation Process](#installation-process)
@@ -47,11 +47,12 @@ The Encryptor project is a simple encryption tool that allows users to encrypt a
 
 This utility converts input data into its Base64 representation, a common encoding scheme used in data serialization and transmission. It showcases how to implement encoding algorithms in C++.
 
+
 ### EXIF Data Extractor
 
 The EXIF Data Extractor is a tool for extracting metadata from digital photos, such as camera settings, GPS data, and timestamps. It demonstrates how to work with external libraries in C++.
 
-## TO Run
+## To Run
 ```bash
 g++ -o read_exif main.cpp -lexif
 ./read_exif <image_file>
@@ -61,6 +62,11 @@ g++ -o read_exif main.cpp -lexif
 
 A simple URL shortening service implemented in C++, demonstrating web API interaction and basic data storage techniques.
 
+```bash
+g++ -o shorturl urlshortener.cpp main.cpp -lcurl
+./shorturl
+``` 
+
 ## Getting Started
 
 To get started with these projects, you'll need a C++ compiler and any necessary development tools specific to your platform.
@@ -69,11 +75,11 @@ To get started with these projects, you'll need a C++ compiler and any necessary
 
 1. Clone the SecureX Tools repository:
    ```
-   git clone "<url>"
+   git clone "https://github.com/AnuragDahal/SecureX-Tools.git"
     ``` 
 2. Navigate to the cloned directory:
     ```
-    cd small-cpp-projects
+    cd SecureX-Tools
     ```
 3. Compile each tool according to its specific instructions found in their respective directories.
 

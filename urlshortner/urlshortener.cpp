@@ -5,7 +5,8 @@
 #include <nlohmann/json.hpp>
 
 // Define the API token as a constant
-const std::string API_TOKEN = "lBI7uwRN115jUmXG2UxRkEyLxOis5UIW6KnHSU554ZTeSYngOe01p5ZBAfHD";
+
+const std::string API_TOKEN = ""; //"lBI7uwRN115jUmXG2UxRkEyLxOis5UIW6KnHSU554ZTeSYngOe01p5ZBAfHD";
 
 // Function to handle the curl response
 size_t WriteCallback(void *contents, size_t size, size_t nmemb, void *userp)
@@ -70,5 +71,5 @@ std::string UrlShortener::sendRequest(const std::string &url, const std::string 
     {
         std::cerr << "curl_easy_init() failed" << std::endl;
     }
-    return ""; // Return an empty string if none of the success paths were taken
+    return "";
 }
