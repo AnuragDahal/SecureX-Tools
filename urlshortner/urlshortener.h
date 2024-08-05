@@ -12,4 +12,4 @@ private:
     std::string sendRequest(const std::string &url, const std::string &postData);
 };
 
-#endif // URLSHORTENER_H
+#endif
