@@ -6,7 +6,7 @@
 
 // Define the API token as a constant
 
-const std::string API_TOKEN = ""; //"lBI7uwRN115jUmXG2UxRkEyLxOis5UIW6KnHSU554ZTeSYngOe01p5ZBAfHD";
+const std::string API_TOKEN ="pRCIxNO6sEcSrWLvUFcztjazb1QnDEl1qcEGZXeyJPxraAtXgYlOKBsevFGz";
 
 // Function to handle the curl response
 size_t WriteCallback(void *contents, size_t size, size_t nmemb, void *userp)

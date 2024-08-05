@@ -4,7 +4,6 @@
 #include <vector>
 #include <cstdint>
 
-// Base64 encoding function
 std::string base64_encode(const std::vector<unsigned char> &data)
 {
     static const char *table = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
