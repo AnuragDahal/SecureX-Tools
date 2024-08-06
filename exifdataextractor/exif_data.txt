@@ -1,0 +1,26 @@
+EXIF data for file: ./sample.jpg
+Tag Name                      : Value
+--------------------------------------------------
+Model                         : SM-A042F
+Orientation                   : Right-top
+DateTime                      : 2024:07:20 13:21:07
+Make                          : samsung
+XResolution                   : 72
+YResolution                   : 72
+ResolutionUnit                : Inch
+FNumber                       : f/2.8
+ExposureTime                  : 1/33 sec.
+FocalLength                   : 3.4 mm
+Flash                         : Flash fired
+MeteringMode                  : Center-weighted average
+ISOSpeedRatings               : 100
+FocalLengthIn35mmFilm         : 25
+MaxApertureValue              : 2.80 EV (f/2.6)
+DateTimeDigitized             : 2024:07:20 13:21:07
+ExposureBiasValue             : 0.00 EV
+WhiteBalance                  : Auto white balance
+DateTimeOriginal              : 2024:07:20 13:21:07
+ApertureValue                 : 2.80 EV (f/2.6)
+ExifVersion                   : Exif Version 2.1
+FlashpixVersion               : FlashPix Version 1.0
+ColorSpace                    : Uncalibrated
